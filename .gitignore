@@ -1,0 +1,44 @@
+# Archivos de configuración local de usuario
+xcuserdata/
+
+# Compatibilidad con versiones antiguas de Xcode (opcional)
+*.xcscmblueprint
+*.xccheckout
+*.moved-aside
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Carpetas de construcción y datos derivados
+build/
+DerivedData/
+
+# Archivos específicos de Objective-C/Swift
+*.hmap
+
+# Archivos temporales y de sistema macOS
+.DS_Store
+UserInterfaceState.xcuserstate
+
+# Paquetes y símbolos de depuración
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# Dependencias de CocoaPods (opcional, según proyecto)
+Pods/
+
+# Dependencias de Carthage
+Carthage/Build/
+# Carthage/Checkouts (opcional)
+
+# Fastlane (automatización)
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Proyectos de inyección de código
+iOSInjectionProject/
+
