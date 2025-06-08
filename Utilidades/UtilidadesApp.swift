@@ -11,7 +11,8 @@ import SwiftUI
 struct UtilidadesApp: App {
     var body: some Scene {
         WindowGroup {
-            Vibracion()
+            //Vibracion()
+            Network()
         }
     }
 }
