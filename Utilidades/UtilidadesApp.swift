@@ -12,7 +12,8 @@ struct UtilidadesApp: App {
     var body: some Scene {
         WindowGroup {
             //Vibracion()
-            Network()
+            //Network()
+            Botones()
         }
     }
 }
